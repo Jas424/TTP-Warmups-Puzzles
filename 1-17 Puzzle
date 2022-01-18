@@ -1,0 +1,6 @@
+There will be two arrays, one that represents magazine and that represents ransomNote. Each index in the array will be identified by a character. 
+Index 0 aill be represent by character A and Index 1 will be represented by character B. 
+We iterate over both strings and capture the character count in all the arrays.
+We will then compare character count from both arrays index by index and validate
+If we have enough characters available in magazine to construct ransomNote. If there
+are not enough characters, it will display false. If there are, it will display true. 
